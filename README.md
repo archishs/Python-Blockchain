@@ -17,3 +17,5 @@ In its most basic form, forking is how the blockchain system deals with the situ
 ## Summary and usage guide
 
 Blockchain is a vast and ever-growing field. This system that I have coded is a very rudimentary example of a blockchain. To use it, you can instantiate blocks using the Block class and use the functions for any purpose including data storage, creating your own mini crypto currency, and much more.
+
+Built using help from this tutorial: https://towardsdatascience.com/building-a-minimal-blockchain-in-python-4f2e9934101d
